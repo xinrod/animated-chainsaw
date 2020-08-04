@@ -331,12 +331,12 @@ p {
 }
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-    color: #00a6f1;
+    color: #FFFFFF;
     background-color: transparent;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    color: #00a6f1;
+    color: #FFFFFF;
     background-color: transparent;
 }
 
@@ -380,7 +380,7 @@ p {
     /* height: 750px; */
     background: url('../img/home2.jpg') no-repeat;
     background-size: cover;
-    background: #000;
+    background: #FFFFFF;
 }
 .top_cont_outer:before{/* content:''; */position:absolute;top:0;width:100%;z-index:5;/* background: rgba(25, 25, 25, 0.7); */height:100%;bottom:0;}
 .hero_section {
