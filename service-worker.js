@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/animated-chainsaw/precache-manifest.80ec3ec0286c00c343ad450ecfee5b8a.js"
+  "/animated-chainsaw/precache-manifest.d7e038ea1037bde3f24ac78ad04b83f0.js"
 );
 
 self.addEventListener('message', (event) => {
