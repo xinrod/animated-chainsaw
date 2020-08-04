@@ -1190,7 +1190,7 @@ border: 1px solid #CE1139;
 
 .social_links li a:hover, .social_links li a:focus {
     text-decoration: none;
-    border-radius: 80px;
+    border-radius: 0px;
     background: #03A9F4;
     color: #03A9F4;
 }
