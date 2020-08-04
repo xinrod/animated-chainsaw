@@ -430,7 +430,7 @@ p {
 
 .top_left_cont p {color: rgba(255, 255, 255, 0.74);margin: 0 0 50px 0;line-height: 24px;font-size: 15px;text-align: center;letter-spacing: 1px;font-weight: normal;}
 
-a.read_more, a.read_more2 {
+{/*a.read_more, a.read_more2 {
     font-family: 'Raleway', sans-serif;
     display: block;
     font-size: 16px;
@@ -448,7 +448,7 @@ a.read_more, a.read_more2 {
     color: #FEB11E;
     border: 1px solid #FEB11E;
     margin:0 auto;
-}
+}*/}
 a.read_more{
 	 color: #3C3C3C;
      border: 1px solid #3C3C3C;
