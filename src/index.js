@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import './bootstrap.min.css';
+import './font-awesome.css';
+import './animate.css';
+import './style.css';
 
 ReactDOM.render(
     <App />,
