@@ -18,7 +18,7 @@ export default class AboutMe extends Component {
               <div className="desc"><b>Student at UNC-Chapel Hill</b></div>
               <div className="desc">
                 <p>
-                  I am a rising sophomore studying computer science. I am seeking an internship to grow as a developer.</p>
+                  I am a rising sophomore studying computer science (Anticipated Graduation: May 2023). I am seeking an internship to grow as a developer.</p>
               </div>
               
             </div>

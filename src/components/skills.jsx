@@ -7,9 +7,8 @@ export default class Skills extends Component {
         <section id="aboutUs">{/*Aboutus*/}
           <div className="inner_wrapper aboutUs-container fadeInLeft animated wow">
             <div className="container">
-              <h2>About Me</h2>
-              <h6>My anticipated graduation date is May 2023. 
-                This section highlights my coursework and skills.</h6>
+              <h2>About This Website</h2>
+              <h6> This is my portfolio website. It is built using React and Bootstrap.</h6>
               <div className="inner_section"> 
                 <div className="row">
                   <div className="col-lg-12 about-us">
