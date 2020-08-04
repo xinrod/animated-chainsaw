@@ -378,7 +378,7 @@ p {
 .top_cont_outer {
     position: relative;
     /* height: 750px; */
-    background: url() no-repeat;
+    /* background: url() no-repeat; */
     background-size: cover;
     background: #FFFFFF;
 }
@@ -1565,7 +1565,7 @@ border: 1px solid #CE1139;
     height: 40px;
     margin-top: 40px;
     opacity: 0;
-    background: url();
+    /*background: url();*/
     background-size: 40px 40px;
     transition: all 0.3s ease 0.1s;
     -moz-transition: all 0.3s ease 0.2s;
@@ -1626,16 +1626,15 @@ border: 1px solid #CE1139;
   float:right;
 }
 .tooltip > .tooltip-inner {background-color: #03a9f4;padding:5px 15px;color:rgb(23,44,66);font-weight:bold;font-size:13px;}
-.popOver + .tooltip > .tooltip-arrow {border-left: 5px solid transparent;border-right: 5px solid transparent;border-top: 5px solid #03a9f4;}
+.popOver + .tooltip > .tooltip-arrow {border-left: 5px solid transparent;border-right: 5px solid transparent;border-top: 5px solid rgb(23,44,66);}
  
 .progress{
-  border-radius:0;
+  border-radius:100;
   overflow:visible;
 }
 .progress-bar{
-   background: rgb(125, 125, 125);
-   -webkit-transition: width 1.5s ease-in-out;
-   transition: width 1.5s ease-in-out;
+   background: rgb(23,44,66);
+   visibility: visible;
 }
 .skills{
 	padding:80px 0;
@@ -1666,7 +1665,7 @@ border: 1px solid #CE1139;
 }
 
 #project-page-button-fullscreen li a {
-    background: url() no-repeat #fff;
+    /*background: url() no-repeat #fff;*/
     background-size: 50px 50px;
     width: 50px;
     height: 50px;
@@ -1721,14 +1720,14 @@ border: 1px solid #CE1139;
 	
 	
 .project-image-slider .bx-wrapper .bx-next {
-    background: url("") no-repeat;
+    /*background: url("") no-repeat;*/
     background-size: 35px 65px;
     opacity: 0.3;
     right: -90px;
 }
 
 .project-image-slider .bx-wrapper .bx-prev {
-    background: url("") no-repeat;
+    /*background: url("") no-repeat;*/
     background-size: 35px 65px;
     opacity: 0.3;
     left: -90px;
@@ -1839,7 +1838,7 @@ div.mc-image {
 }
 
 .in-slide-content div.info-slide {
-    background: #FFF url() no-repeat left bottom;
+    /*background: #FFF url() no-repeat left bottom;*/
     background-size: 46px 46px;
     position: absolute;
     top: 30px;

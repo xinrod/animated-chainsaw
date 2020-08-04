@@ -35,31 +35,31 @@ export default class Skills extends Component {
                         <div className="barWrapper">
                           <span className="progressText"><b>Java</b></span>
                           <div className="progress">
-                            <div className="progress-bar" role="progressbar" aria-valuenow={75} aria-valuemin={0} aria-valuemax={100}>   
-                              <span className="popOver" data-toggle="tooltip" data-placement="top" title="75%"> </span>     
+                            <div className="progress-bar" role="progressbar" aria-valuenow={60} aria-valuemin={0} aria-valuemax={100}>   
+                              <span className="popOver" data-toggle="tooltip" data-placement="top" title="60%"> </span>     
                             </div>
                           </div>
                           <div className="barWrapper">
                             <span className="progressText"><b>C</b></span>
                             <div className="progress ">
-                              <div className="progress-bar" role="progressbar" aria-valuenow={65} aria-valuemin={10} aria-valuemax={100} style={{}}>
-                                <span className="popOver" data-toggle="tooltip" data-placement="top" title="65%"> </span>  
+                              <div className="progress-bar" role="progressbar" aria-valuenow={45} aria-valuemin={10} aria-valuemax={100} style={{}}>
+                                <span className="popOver" data-toggle="tooltip" data-placement="top" title="45%"> </span>  
                               </div>
                             </div>
                           </div>
                           <div className="barWrapper">
                             <span className="progressText"><b>HTML/CSS</b></span>
                             <div className="progress">
-                              <div className="progress-bar" role="progressbar" aria-valuenow={35} aria-valuemin={0} aria-valuemax={100}>
-                                <span className="popOver" data-toggle="tooltip" data-placement="top" title="35%"> </span>  
+                              <div className="progress-bar" role="progressbar" aria-valuenow={15} aria-valuemin={0} aria-valuemax={100}>
+                                <span className="popOver" data-toggle="tooltip" data-placement="top" title="15%"> </span>  
                               </div>
                             </div>
                           </div>
                           <div className="barWrapper">
                             <span className="progressText"><b>JavaScript</b></span>
                             <div className="progress">
-                              <div className="progress-bar" role="progressbar" aria-valuenow={30} aria-valuemin={0} aria-valuemax={100}>
-                                <span className="popOver" data-toggle="tooltip" data-placement="top" title="30%"> </span>  
+                              <div className="progress-bar" role="progressbar" aria-valuenow={15} aria-valuemin={0} aria-valuemax={100}>
+                                <span className="popOver" data-toggle="tooltip" data-placement="top" title="15%"> </span>  
                               </div>
                             </div>
                           </div> 
