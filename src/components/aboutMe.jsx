@@ -25,8 +25,8 @@ export default class AboutMe extends Component {
             <div className="bottom">
               <div className="underline" />             
               <ul className="social_links">
-                <li className="linkedin animated bounceIn wow delay-02s animated" style={{visibility: 'visible', animationName: 'bounceIn'}}><a href="https://www.linkedin.com/in/roderick-liu-85325a1a2/"><i className="fa fa-linkedIn" /></a></li>
-                <li className="GitHub animated bounceIn wow delay-03s animated" style={{visibility: 'visible', animationName: 'bounceIn'}}><a href="https://github.com/xinrod"><i className="fa fa-gitHub" /></a></li>
+                <li className="linkedin animated bounceIn wow delay-02s animated" style={{visibility: 'visible', animationName: 'bounceIn'}}><img alt="" src="img/linkedin-icon.svg" /><a href="https://www.linkedin.com/in/roderick-liu-85325a1a2/"><i className="fa fa-linkedIn" /></a></li>
+                <li className="GitHub animated bounceIn wow delay-03s animated" style={{visibility: 'visible', animationName: 'bounceIn'}}><img alt="" src="img/github-mark.png" /><a href="https://github.com/xinrod"><i className="fa fa-gitHub" /></a></li>
               </ul> 
             </div>
           </div>
