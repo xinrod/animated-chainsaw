@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9c24a24a49909af1a22ad54678da81c",
+    "revision": "f71750a215b58be7f422f5f82ff4ff6c",
     "url": "/animated-chainsaw/index.html"
   },
   {
-    "revision": "75c99f9633c832af5f9c",
-    "url": "/animated-chainsaw/static/css/main.c18a9caa.chunk.css"
+    "revision": "06f75eac288ebf14c42a",
+    "url": "/animated-chainsaw/static/css/main.833c7a26.chunk.css"
   },
   {
     "revision": "204a3a0cae7b62f9b255",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/animated-chainsaw/static/js/2.5f7d4ff1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "75c99f9633c832af5f9c",
+    "revision": "06f75eac288ebf14c42a",
     "url": "/animated-chainsaw/static/js/main.1eedb14b.chunk.js"
   },
   {
