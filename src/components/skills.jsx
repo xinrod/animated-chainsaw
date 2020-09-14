@@ -49,7 +49,7 @@ export default class Skills extends Component {
                           <div className="barWrapper">
                             <span className="progressText"><b>HTML/CSS</b></span>
                             <div className="progress">
-                              <div className="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="0" aria-valuemax= "100" style={{width: '15%'}}>
+                              <div className="progress-bar" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax= "100" style={{width: '45%'}}>
                                 <span className="popOver" data-toggle="tooltip" data-placement="top" title="15%"> </span>  
                               </div>
                             </div>
@@ -57,7 +57,7 @@ export default class Skills extends Component {
                           <div className="barWrapper">
                             <span className="progressText"><b>JavaScript</b></span>
                             <div className="progress">
-                              <div className="progress-bar" role="progressbar" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100" style={{width: '15%'}}>
+                              <div className="progress-bar" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style={{width: '45%'}}>
                                 <span className="popOver" data-toggle="tooltip" data-placement="top" title="15%"> </span>  
                               </div>
                             </div>

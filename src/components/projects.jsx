@@ -26,6 +26,9 @@ export default class PersonalProjects extends Component {
                 <li><a className href="https://github.com/xinrod/pronounce.it" data-filter=".android">
                     <h5>Pronounce.it</h5>
                   </a></li>
+                  <li><a className href="https://xinrod.github.io/restaurant-picker" data-filter="">
+                    <h5>Delivery Picker</h5>
+                    </a></li>
               </ul>
             </div>
             {/*/Portfolio Filters */} 
